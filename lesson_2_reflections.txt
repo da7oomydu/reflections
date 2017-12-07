@@ -1,0 +1,15 @@
+
+Slide 5 :
+What happens when you initialize a repository?
+Why do you need to do it?
+
+Well it shows me that there are not any commit yet.
+to check how many commit is there ?
+
+Slide 8 :
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+Well the staging area is giving us the chance to choose 
+which files we want to commit togather and which files we
+want to add it to the repository alone ? 
