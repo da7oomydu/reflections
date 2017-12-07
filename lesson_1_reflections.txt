@@ -1,0 +1,52 @@
+Well fiff helped by
+1 - saving a lot of my time.
+2 - find the difference without any error.
+3 - very accurate. 
+
+for slide 8 :
+Well by seeing my errors and how I solved it. It will give so much experiance.
+
+for slide 15 :
+What do you think are the pros and cons of manually choosing
+when to create a commit, like you do in Git, vs having versions
+automatically saved, like Google Docs does?
+
+Well I thinks the pros is :
+- Working offline.
+- Manually saving.
+- Working with anyeditor.
+
+And the cons are :
+- can't explain the differences if the most of the text are 
+written in the same line.
+
+for slide 18 :
+Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others, 
+like Google Docs, treat each file separately?
+
+Well to keep track of the changes for the mutual files.
+
+
+for slide 22 :
+How can you use the commands git log and git 
+diff to view the history of files?
+
+Well after cloaning the project I can use git log to see all the
+id and the main changes that have been made. 
+after that by using git diff I can compare to id to know the 
+all the difference between two files.
+
+for slide 26 :
+How might using version control make you more confident to make
+changes that could break something?
+
+Well without git when I do the changes I would be worry that
+something might happened to the code. But with git I will have
+all the convidence that I need to change whatever I want 
+because I know that I can discover the errors with one order.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+for comparing my android projects code.
