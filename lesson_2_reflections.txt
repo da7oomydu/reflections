@@ -13,3 +13,16 @@ What value do you think it offers?
 Well the staging area is giving us the chance to choose 
 which files we want to commit togather and which files we
 want to add it to the repository alone ? 
+
+Slide 26 :
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Well After merging two branches togather I will have one branch which is the master branch with all or most the commit
+that was in the two branches.
+
+We do represent it, because It make things easier to understand to to know every commit parent.
+
+Slide 33 :
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Well the Git’s automatic merging might sometimes causes a conflict for us.
