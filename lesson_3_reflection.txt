@@ -1,0 +1,4 @@
+Slide 10 :
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Well I said before that when I pull changes manually. It will be more accurate and efficiant.
