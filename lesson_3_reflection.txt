@@ -14,3 +14,13 @@ Slide 22 :
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 I don't know.
+
+Slide 25 :
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Well I will have to send the whole project by mail or bu uploading
+it to the cloud. or sharing it by using USB.
+
+OfCourse using git and hithub will make everything easier and faster.
+
+the old way would be harder ofcourse.
