@@ -24,3 +24,14 @@ it to the cloud. or sharing it by using USB.
 OfCourse using git and hithub will make everything easier and faster.
 
 the old way would be harder ofcourse.
+
+Slide 31 :
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I'm working on something with others. I think it's the best
+time to make my changes in a seperate branch, because I might do 
+some errors and it my interupt with my coworkers work.
+
+the benifit from using a seperate branch is to make sure that 
+no error is happening. 
+and the benifit of using the main branch is to save time.
